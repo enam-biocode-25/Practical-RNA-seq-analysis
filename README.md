@@ -11,7 +11,7 @@ It tells us:
 * which genes are upregulated or downregulated
 * whether different conditions affect gene expression
 
-It can be said that **DNA is the blueprint**, but **RNA shows which parts of the blueprint are active**.
+It can be said that **DNA is the blueprint**, whereas **RNA shows which parts of the blueprint are active**.
 Inside a cell:
 **DNA → RNA → Protein**
 
